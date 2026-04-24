@@ -39,12 +39,6 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🦠 ml-covid19-hasta-tahmini](https://github.com/EnesAlkiraz/ml-covid19-hasta-tahmini) | COVID-19 patient outcome prediction using machine learning | Python, Jupyter |
-| [🔍 veri-yapilari-odev-arama-siralama](https://github.com/EnesAlkiraz/veri-yapilari-odev-arama-siralama) | Search & sorting algorithm implementations | Python |
 
 ---
 
