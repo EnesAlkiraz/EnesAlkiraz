@@ -1,17 +1,21 @@
 <div align="center">
 
-<!-- Animasyon: Yapay Zeka Operatörlüğü odaklı, doğru yazı -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Enes+Alkiraz+%7C+AI+Operations+Student;Machine+Learning+%26+Data+Science;Bart%C4%B1n+%C3%9Cniversitesi+%E2%80%94+Yapay+Zeka+Operat%C3%B6rl%C3%BC%C4%9F%C3%BC" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58A6FF&height=120&section=header&text=Enes%20Alkiraz&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Operations+Student+%40+Bart%C4%B1n+%C3%9Cniversitesi;Machine+Learning+%26+Data+Science+Enthusiast;Building+intelligent+solutions+with+data" alt="Typing SVG" />
 
 <br/>
 
-<!-- Sosyal Bağlantılar -->
 <a href="https://www.linkedin.com/in/enes-alkiraz-95400b32b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/EnesAlkiraz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=EnesAlkiraz&color=58A6FF&style=flat-square&label=Profile+Views" />
@@ -22,21 +26,19 @@
 
 ---
 
-### 👋 About Me
+### 🧠 About Me
 
-I'm an **AI Operations student** at Bartın University, building hands-on experience in machine learning and data-driven problem solving. I enjoy turning raw data into actionable insights and exploring how AI can be applied to real-world challenges.
+I am an **Artificial Intelligence Operations** student at **Bartın University**, focused on developing practical skills in machine learning, data analysis, and AI-driven problem solving.
 
-```python
-profile = {
-    "name"       : "Enes Alkiraz",
-    "university" : "Bartın Üniversitesi",
-    "department" : "Yapay Zeka Operatörlüğü",
-    "focus"      : ["Machine Learning", "Data Science", "AI Applications"],
-    "stack"      : ["Python", "SQL", "HTML"],
-    "location"   : "Bartın, Turkey",
-    "status"     : "Open to collaborations & learning opportunities 🚀"
-}
-```
+My goal is to bridge the gap between theoretical AI concepts and real-world applications — building models that make a measurable impact.
+
+<br/>
+
+🎓 &nbsp;**Bartın Üniversitesi** — Yapay Zeka Operatörlüğü  
+🤖 &nbsp;Focused on **Machine Learning** & **Predictive Modeling**  
+📊 &nbsp;Interested in **Data Science** & **AI Applications**  
+📍 &nbsp;Based in **Bartın, Turkey**  
+🚀 &nbsp;Open to **collaborations** and **learning opportunities**
 
 ---
 
@@ -44,11 +46,17 @@ profile = {
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
@@ -56,23 +64,35 @@ profile = {
 
 ### 📂 Featured Projects
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 01 | [**ml-covid19-hasta-tahmini**](https://github.com/EnesAlkiraz/ml-covid19-hasta-tahmini) | COVID-19 patient outcome prediction using ML classification models | Python · Jupyter · scikit-learn |
-| 02 | [**veri-yapilari-odev-arama-siralama**](https://github.com/EnesAlkiraz/veri-yapilari-odev-arama-siralama) | Search & sorting algorithm implementations — Data Structures coursework | Python |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/EnesAlkiraz/ml-covid19-hasta-tahmini">🦠 ml-covid19-hasta-tahmini</a></h4>
+      <p>COVID-19 patient outcome prediction using machine learning classification models. Built as part of the Machine Learning course.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/EnesAlkiraz/veri-yapilari-odev-arama-siralama">🔍 veri-yapilari-odev-arama-siralama</a></h4>
+      <p>Implementation of core search and sorting algorithms. Covers binary search, bubble sort, merge sort and more — Data Structures coursework.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnesAlkiraz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&card_width=420" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnesAlkiraz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAlkiraz&layout=compact&theme=github_dark&hide_border=true&card_width=280" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAlkiraz&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnesAlkiraz&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnesAlkiraz&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%" />
 </div>
 
 ---
@@ -86,5 +106,5 @@ profile = {
 ---
 
 <div align="center">
-  <sub>⚡ Always learning. Always building.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=80&section=footer" />
 </div>
