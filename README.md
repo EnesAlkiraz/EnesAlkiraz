@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Operations+Student+%40+Bart%C4%B1n+%C3%9Cniversitesi;Machine+Learning+%26+Data+Science+Enthusiast;Building+intelligent+solutions+with+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Enes+Alkiraz+%F0%9F%91%8B;Yapay+Zeka+Operat%C3%B6rl%C3%BC%C4%9F%C3%BC+%40+Bart%C4%B1n;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
