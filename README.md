@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58A6FF&height=120&section=header&text=Enes%20Alkiraz&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Enes+Alkiraz+%F0%9F%91%8B;Yapay+Zeka+Operat%C3%B6rl%C3%BC%C4%9F%C3%BC+%40+Bart%C4%B1n;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <br/>
@@ -8,6 +16,10 @@
 &nbsp;
 <a href="https://github.com/EnesAlkiraz" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:alkirazenes0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=EnesAlkiraz&color=58A6FF&style=flat-square&label=Profile+Views" />
