@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58A6FF&height=220&section=header&text=Enes%20Alkiraz&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58A6FF&height=220&section=header&text=Enes%20Alkiraz&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
